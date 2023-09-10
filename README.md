@@ -1,1 +1,3 @@
-# learn_msib_bc_kelompok_2
+# MSIB - Kampus Merdeka
+## Ilham Nur Hermawan
+### Blockchain - Kelompok 2
