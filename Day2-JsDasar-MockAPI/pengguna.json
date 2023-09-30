@@ -1,0 +1,19 @@
+{
+  "pengguna": [
+    {
+      "id": 1,
+      "Nama": "Pengguna 1",
+      "Alamat": "Cirebon"
+    },
+    {
+      "id": 2,
+      "Nama": "Pengguna 2",
+      "Alamat": "Bandung"
+    },
+    {
+      "Nama": "Ilham Nur Hermawan",
+      "Alamat": "Cirebon",
+      "id": 4
+    }
+  ]
+}
